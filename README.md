@@ -1,8 +1,10 @@
 # Udacity React Nanodegree - Project 2
 
 ### How to run locally:
+This application relies on an external server.
 
-Download the example [or clone the repo](https://github.com/zeit/next.js):
+ In order to run this locally, you will first need to get the server up and running by [going here](https://github.com/udacity/reactnd-project-readable-starter).
+Download the example or clone the repo:
 
 ```bash
 git clone https://github.com/JacobPrice/reactnd-project-readable.git
